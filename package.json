@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AayushMohan/starter/issues"
   },
-  "homepage": "https://github.com/AayushMohan/starter#readme"
+  "homepage": "https://github.com/AayushMohan/starter#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
 }
